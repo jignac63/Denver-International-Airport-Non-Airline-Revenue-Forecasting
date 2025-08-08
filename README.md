@@ -13,6 +13,6 @@ This project analyzes and forecasts non-airline revenue sources at Denver Intern
 - Applied forecasting techniques using ARIMA/SARIMA and machine learning models.
 - Visualized predictions to support data-driven planning at Denver International Airport.
 
-#View the Project:
+# View the Project:
 Check the notebook/PDF in this repository for full analysis and visuals.
 
